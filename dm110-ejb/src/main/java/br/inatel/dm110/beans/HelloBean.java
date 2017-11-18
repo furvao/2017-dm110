@@ -1,4 +1,4 @@
-package br.inatel.dm110.hello.impl;
+package br.inatel.dm110.beans;
 
 import javax.ejb.Local;
 import javax.ejb.Remote;

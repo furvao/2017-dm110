@@ -1,4 +1,4 @@
-package br.inatel.dm110.hello.impl;
+package br.inatel.dm110.beans.impl;
 
 import javax.ejb.EJB;
 import javax.enterprise.context.RequestScoped;
